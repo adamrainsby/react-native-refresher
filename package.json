@@ -29,5 +29,8 @@
   },
   "dependencies": {
     "is-promise": "~2.0.0"
-  }
+  },
+  "peerDependencies": {
+    "react-native": ">=0.8.0"
+  },
 }
